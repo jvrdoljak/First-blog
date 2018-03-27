@@ -10,7 +10,7 @@
             {{ Form::text('title', null, ['class' => 'form-control']) }}
             {{ Form::textarea('body', null, ['class' => 'form-control']) }}
 		</div>
-		
+		<!--Listanje podataka -->s
 		<div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
 			<div class="jumbotron">
 				<dl class="dl-horizontal">
